@@ -3247,19 +3247,19 @@ body.gallery-main header .logo h1 {
 }
 html.gallery-main header nav .social ul li a.twitter,
 body.gallery-main header nav .social ul li a.twitter {
-  background-position: left -194px !important;
+  background-position: left 0!important;
 }
 html.gallery-main header nav .social ul li a.facebook,
 body.gallery-main header nav .social ul li a.facebook {
-  background-position: left -243px !important;
+  background-position: left -49px !important;
 }
 html.gallery-main header nav .social ul li a.instagram,
 body.gallery-main header nav .social ul li a.instagram {
-  background-position: left -292px !important;
+  background-position: left -97px !important;
 }
 html.gallery-main header nav .social ul li a.vimeo,
 body.gallery-main header nav .social ul li a.vimeo {
-  background-position: left -340px !important;
+  background-position: left -145px !important;
 }
 html.gallery-main header nav a.button:hover,
 body.gallery-main header nav a.button:hover,
